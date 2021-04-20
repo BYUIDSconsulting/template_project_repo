@@ -1,2 +1,2 @@
-# blank_project_repository
-A blank project repository for folder structure and naming guidance
+# Reference materials or other non-data documents
+
